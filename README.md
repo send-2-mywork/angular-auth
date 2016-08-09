@@ -1,2 +1,2 @@
-# react-basics
-React demo examples
+# angular-auth
+Angular Auth
